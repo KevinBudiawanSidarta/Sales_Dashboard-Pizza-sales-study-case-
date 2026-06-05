@@ -5,6 +5,9 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 > An end-to-end business intelligence dashboard analyzing pizza sales performance across daily trends, monthly patterns, product categories, and size distribution — built in Power BI with data extracted from an SQL database.
+>
+> <img width="1372" height="770" alt="image" src="https://github.com/user-attachments/assets/b6ad4857-86fc-4ab3-80e7-82a8da527462" />
+
 
 ---
 
